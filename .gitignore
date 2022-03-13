@@ -1,0 +1,3 @@
+# Project exclude paths
+/gmall-cdc/target/
+/gmall-realtime/target/
